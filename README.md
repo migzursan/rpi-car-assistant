@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/rpi-car-banner.png" alt="RPi Car Assistant" width="800"/>
+  <img src="rpi-car-banner.png" alt="RPi Car Assistant" width="800"/>
 </p>
 
 <p align="center">
